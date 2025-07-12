@@ -113,7 +113,8 @@ links = [
     "https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless",
     "https://raw.githubusercontent.com/F0rc3Run/raw-git-freeserver-configs/refs/heads/main/data/vless.txt",
     "https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt",
-    "https://raw.githubusercontent.com/xyfqzy/free-nodes/refs/heads/main/nodes/vless.txt"
+    "https://raw.githubusercontent.com/xyfqzy/free-nodes/refs/heads/main/nodes/vless.txt",
+    "https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/vless.txt"
 ]
 
 all_unique_configs = []
